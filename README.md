@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LeonSinnie&show_icons=ture&title_color=#065aa5&icon_color=#065aa5&todayistododay " />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LeonSinnie&show_icons=ture&title_color=#065aa5&icon_color=#065aa5&todayistododay&contactmetochiwuuinc " />
 
 ### Hi, I am LeonSinnie👋
 >🌏 Is a frondEnd Web Developer from China.
